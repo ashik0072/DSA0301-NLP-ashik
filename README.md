@@ -1,4 +1,4 @@
-# DSA0301-NLP-PROGRAM CODES
+# DSA0301-NLP-PROGRAM QUESTIONS
 1.Python code to perform stemming operation on a sentence using nltk.
 
 2.Python code to perform chunking operation ona sentence using nltk pos_tag.
